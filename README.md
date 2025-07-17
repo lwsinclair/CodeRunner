@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/bandarlabs-coderunner-badge.png)](https://mseep.ai/app/bandarlabs-coderunner)
+
 <!--
 author:   André Dietrich
 
